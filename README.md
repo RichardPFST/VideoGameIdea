@@ -1,4 +1,4 @@
-# VideoGameIdea
+# Video Game Idea
 My submission for the Preliminary Video Game Idea
 # Dungeon Delver
 ## Brief Synopsis of the game
